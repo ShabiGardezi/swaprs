@@ -3,7 +3,9 @@
 import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
-console.log("motion is", motion);
+
+// Define MotionDiv as a React FC with HTMLMotionProps for a "div"
+const MotionDiv = motion.div as any;
 
 export default function Hero() {
   return (
@@ -11,7 +13,7 @@ export default function Hero() {
       <div className="container px-4 md:px-6">
         <div className="grid gap-6 lg:grid-cols-2 lg:gap-12 items-center">
           {/* TEXT CONTENT */}
-          <motion.div
+          <MotionDiv
             initial={{ x: -100, opacity: 0 }}
             whileInView={{ x: 0, opacity: 1 }}
             transition={{ duration: 1 }}
@@ -53,10 +55,10 @@ export default function Hero() {
                 />
               </Link>
             </div>
-          </motion.div>
+          </MotionDiv>
 
           {/* IMAGE */}
-          <motion.div
+          <MotionDiv
             initial={{ x: 100, opacity: 0 }}
             whileInView={{ x: 0, opacity: 1 }}
             transition={{ duration: 1 }}
@@ -72,7 +74,7 @@ export default function Hero() {
                 className="aspect-[3/4] object-cover"
               />
             </div>
-          </motion.div>
+          </MotionDiv>
         </div>
       </div>
     </section>
