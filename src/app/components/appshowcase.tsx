@@ -8,7 +8,7 @@ export default function AppShowcase() {
           <div className="flex justify-center">
             <Image
               src="/placeholder.svg?height=600&width=300"
-              alt="Barterchain App"
+              alt="Swaprs App"
               width={300}
               height={600}
               className="rounded-lg border shadow-sm"

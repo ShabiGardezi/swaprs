@@ -11,7 +11,7 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-2">
               <Image
                 src="/logo.svg"
-                alt="Barterchain"
+                alt="Swaprs"
                 width={120}
                 height={30}
                 className="h-8 w-auto"
@@ -98,7 +98,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-8 border-t border-gray-700 pt-8 text-center text-sm text-gray-400">
-          <p>© {new Date().getFullYear()} Barterchain. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Swaprs. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -15,7 +15,7 @@ export default function Community() {
       name: "Michael Chen",
       role: "Web Developer",
       content:
-        "Barterchain helped me find a tutor for my son while I offered coding lessons in return.",
+        "Swaprs helped me find a tutor for my son while I offered coding lessons in return.",
       avatar: "/images/micheal.webp",
     },
     {
@@ -31,7 +31,7 @@ export default function Community() {
       name: "David Kim",
       role: "Language Teacher",
       content:
-        "Teaching Spanish while learning piano has been a wonderful experience through Barterchain.",
+        "Teaching Spanish while learning piano has been a wonderful experience through Swaprs.",
       avatar: "/images/kirsten.jpg",
     },
     {

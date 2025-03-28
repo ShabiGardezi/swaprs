@@ -68,7 +68,7 @@ export default function Hero() {
             <div className="overflow-hidden rounded-2xl">
               <Image
                 src="https://static.wixstatic.com/media/539068_06a0a82efc274676bf7eaf151a544032~mv2.png/v1/fill/w_798,h_837,al_c,q_90,enc_avif,quality_auto/Group-min.png"
-                alt="Barterchain showcase"
+                alt="Swaprs showcase"
                 width={600}
                 height={500}
                 className="aspect-[3/4] object-cover"

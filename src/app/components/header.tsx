@@ -8,7 +8,7 @@ export default function Header() {
         <Link href="/" className="flex items-center gap-2">
           <Image
             src="/logo.svg"
-            alt="Barterchain"
+            alt="Swaprs"
             width={120}
             height={30}
             className="h-8 w-auto"

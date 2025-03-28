@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title:
-    "Barterchain - Trading talents. Swapping skills. Connecting communities.",
+    "Swaprs - Trading talents. Swapping skills. Connecting communities.",
   description:
     "A platform where you can exchange services without money. Trade your skills for other skills you need.",
 };

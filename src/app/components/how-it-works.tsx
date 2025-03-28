@@ -50,13 +50,13 @@ export default function HowItWorks() {
             <div className="mb-4">
               <Image
                 src="/placeholder.svg?height=400&width=200"
-                alt="Let the barter begin"
+                alt="Let the Swapr begin"
                 width={200}
                 height={400}
                 className="rounded-lg border shadow-sm"
               />
             </div>
-            <h3 className="text-lg font-bold">Let the barter begin!</h3>
+            <h3 className="text-lg font-bold">Let the Swapr begin!</h3>
           </div>
         </div>
       </div>

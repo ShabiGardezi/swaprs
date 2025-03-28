@@ -63,7 +63,7 @@ export default function FeatureList() {
       id: 6,
       title: "Follow the status of your swaprs",
       description:
-        'See what stage your swapr is at and when your barter exchange is "active" or "completed" or "inactive".',
+        'See what stage your swapr is at and when your Swaprs exchange is "active" or "completed" or "inactive".',
       icon: Clock,
       color: "bg-pink-500",
     },
@@ -71,15 +71,15 @@ export default function FeatureList() {
       id: 7,
       title: "Make choices based on real ratings",
       description:
-        "Find a reputable barter that users are excited to trade with. These are verified ratings from real users who have traded with this member.",
+        "Find a reputable Swaprs that users are excited to trade with. These are verified ratings from real users who have traded with this member.",
       icon: Star,
       color: "bg-blue-400",
     },
     {
       id: 8,
-      title: "Create your barter tokens",
+      title: "Create your Swaprs tokens",
       description:
-        "Once you have traded online, you earn points or barter tokens. These credits are used for expenses and unlock privileges or abilities to use the app and website more conveniently.",
+        "Once you have traded online, you earn points or Swaprs tokens. These credits are used for expenses and unlock privileges or abilities to use the app and website more conveniently.",
       icon: Coins,
       color: "bg-purple-500",
     },

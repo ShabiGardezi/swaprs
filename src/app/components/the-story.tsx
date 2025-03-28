@@ -15,10 +15,10 @@ export default function TheStory() {
             <div className="space-y-2">
               <p className="text-gray-500">
                 "I was tired of seeing so much unused potential in people's
-                skills. I created Barterchain to help people leverage their
+                skills. I created Swaprs to help people leverage their
                 talents and connect with others."
               </p>
-              <p className="font-medium">- Founder & CEO, Barterchain</p>
+              <p className="font-medium">- Founder & CEO, Swaprs</p>
             </div>
             <Link
               href="#"
